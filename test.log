@@ -1,0 +1,16 @@
+ * Debugger is active!
+ * Debugger PIN: 132-584-328
+ * Detected change in 'C:\\projects\\project_1\\flaskApp\\manage.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 132-584-328
+127.0.0.1 - - [25/May/2022 10:26:45] "POST /getProductOrder HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2022 10:26:48] "POST /login HTTP/1.1" 200 -
+ * Detected change in 'C:\\projects\\project_1\\flaskApp\\manage.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 132-584-328
+2022-05-25 10:27:19.464071 : login process done in 0.0 seconds
+127.0.0.1 - - [25/May/2022 10:27:19] "POST /login HTTP/1.1" 200 -
+2022-05-25 10:27:21.808614 : get all order process done in 0.0 seconds
+127.0.0.1 - - [25/May/2022 10:27:21] "GET /getAllOrder HTTP/1.1" 200 -
+2022-05-25 10:27:24.168567 : get product order process done in 0.0019669532775878906 seconds
+127.0.0.1 - - [25/May/2022 10:27:24] "POST /getProductOrder HTTP/1.1" 200 -
